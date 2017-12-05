@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.8)
+project(AdventOfCode2017)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(011 011.cpp)
+add_executable(012 012.cpp)
+add_executable(021 021.cpp)
+add_executable(022 022.cpp)
+add_executable(031 031.cpp)
+add_executable(041 041.cpp)
+add_executable(042 042.cpp)
+add_executable(051 051.cpp)
+add_executable(052 052.cpp)
