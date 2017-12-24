@@ -47,5 +47,7 @@ add_executable(221 221.cpp)
 add_executable(222 222.cpp)
 add_executable(231 231.cpp)
 add_executable(232 232.cpp)
+add_executable(241 241.cpp)
+add_executable(242 242.cpp)
 
 add_executable(WIP232 WIP-232.cpp)
